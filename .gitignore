@@ -2,4 +2,7 @@
 *.py
 *.csv
 *.dat
+**/*.dat
 *.zip
+*.txt
+**/*.txt
